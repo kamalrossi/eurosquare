@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/eurosquare/static/css/main.a45d4565.chunk.css",
+    "main.js": "/eurosquare/static/js/main.d20d33ee.chunk.js",
+    "main.js.map": "/eurosquare/static/js/main.d20d33ee.chunk.js.map",
+    "runtime-main.js": "/eurosquare/static/js/runtime-main.87cc0a4a.js",
+    "runtime-main.js.map": "/eurosquare/static/js/runtime-main.87cc0a4a.js.map",
+    "static/css/2.31ff0196.chunk.css": "/eurosquare/static/css/2.31ff0196.chunk.css",
+    "static/js/2.96492e3d.chunk.js": "/eurosquare/static/js/2.96492e3d.chunk.js",
+    "static/js/2.96492e3d.chunk.js.map": "/eurosquare/static/js/2.96492e3d.chunk.js.map",
+    "static/js/3.1ef3fdae.chunk.js": "/eurosquare/static/js/3.1ef3fdae.chunk.js",
+    "static/js/3.1ef3fdae.chunk.js.map": "/eurosquare/static/js/3.1ef3fdae.chunk.js.map",
+    "index.html": "/eurosquare/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/eurosquare/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.a45d4565.chunk.css.map": "/eurosquare/static/css/main.a45d4565.chunk.css.map",
+    "static/js/2.96492e3d.chunk.js.LICENSE.txt": "/eurosquare/static/js/2.96492e3d.chunk.js.LICENSE.txt",
+    "static/media/deepon3.2f4c1334.png": "/eurosquare/static/media/deepon3.2f4c1334.png",
+    "static/media/eurosquare0.ff9e4bce.png": "/eurosquare/static/media/eurosquare0.ff9e4bce.png",
+    "static/media/eurosquare1.42137811.png": "/eurosquare/static/media/eurosquare1.42137811.png",
+    "static/media/eurosquare2.f1ed595a.png": "/eurosquare/static/media/eurosquare2.f1ed595a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87cc0a4a.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.96492e3d.chunk.js",
+    "static/css/main.a45d4565.chunk.css",
+    "static/js/main.d20d33ee.chunk.js"
+  ]
+}
