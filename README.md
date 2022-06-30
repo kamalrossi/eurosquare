@@ -1,6 +1,6 @@
 EuroSquare is a food delivery app with landing page and Dashboard having modules namely menu, customer,order, review, reporting, inventory.
 
--project page:https://kamalrossi.github.io/medlytics/
+-project page:https://kamalrossi.github.io/eurosquare/
 
 -Keywords: ReactJS, JSX, CSS, HTML5
 
